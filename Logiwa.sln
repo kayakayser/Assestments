@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.Core", "Logiwa.Core\Logiwa.Core.csproj", "{FA0747D5-BA97-4832-979E-0136D08C78C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.Data", "Logiwa.Data\Logiwa.Data.csproj", "{F4BAE2FB-D11C-4B54-972D-19821ADC654C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.Service", "Logiwa.Service\Logiwa.Service.csproj", "{ADD23EFD-8329-499F-83B0-E483DB1E34CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.API", "Logiwa.API\Logiwa.API.csproj", "{45100E0B-61E7-4D23-86BE-04298BC38832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0747D5-BA97-4832-979E-0136D08C78C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0747D5-BA97-4832-979E-0136D08C78C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0747D5-BA97-4832-979E-0136D08C78C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0747D5-BA97-4832-979E-0136D08C78C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BAE2FB-D11C-4B54-972D-19821ADC654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BAE2FB-D11C-4B54-972D-19821ADC654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BAE2FB-D11C-4B54-972D-19821ADC654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BAE2FB-D11C-4B54-972D-19821ADC654C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD23EFD-8329-499F-83B0-E483DB1E34CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD23EFD-8329-499F-83B0-E483DB1E34CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD23EFD-8329-499F-83B0-E483DB1E34CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD23EFD-8329-499F-83B0-E483DB1E34CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45100E0B-61E7-4D23-86BE-04298BC38832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45100E0B-61E7-4D23-86BE-04298BC38832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45100E0B-61E7-4D23-86BE-04298BC38832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45100E0B-61E7-4D23-86BE-04298BC38832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE988EC0-05B6-463F-A31A-E3CCCF58C17D}
+	EndGlobalSection
+EndGlobal

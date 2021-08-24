@@ -1,0 +1,15 @@
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Core.dll
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.csprojAssemblyReference.cache
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.AssemblyInfoInputs.cache
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.AssemblyInfo.cs
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Data.deps.json
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Data.runtimeconfig.json
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Data.runtimeconfig.dev.json
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Data.dll
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Data.pdb
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\bin\Debug\netcoreapp3.1\Logiwa.Core.pdb
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.csproj.CopyComplete
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.dll
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.pdb
+C:\Users\Kaya\source\repos\Logiwa\Logiwa.Data\obj\Debug\netcoreapp3.1\Logiwa.Data.genruntimeconfig.cache

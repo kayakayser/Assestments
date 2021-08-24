@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Logiwa.Service/1.0.0": {
+        "dependencies": {
+          "Logiwa.Core": "1.0.0"
+        },
+        "runtime": {
+          "Logiwa.Service.dll": {}
+        }
+      },
+      "Logiwa.Core/1.0.0": {
+        "runtime": {
+          "Logiwa.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logiwa.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logiwa.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
